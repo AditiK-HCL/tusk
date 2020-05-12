@@ -2,3 +2,5 @@ Welcome to gitHUB Practices
 
 initally create a git repositry
 create a file with any extension in git and commit by provide a comment
+commit some changes
+create a branch 
