@@ -1,0 +1,3 @@
+Welcome to gitHUB Practices
+
+initally create a git repositry
